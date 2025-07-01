@@ -1,0 +1,6 @@
+version: 1
+unique_name: JD_Shared
+object_type: catalog
+label: JD_Shared
+aggressive_agg_promotion: false
+build_speculative_aggs: true
