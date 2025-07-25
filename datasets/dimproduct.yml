@@ -1,7 +1,7 @@
 unique_name: dimproduct
 object_type: dataset
 label: dimproduct
-connection_id: Connection - Internet Sales
+connection_id: con_atscale_public
 table: dimproduct
 
 columns:
